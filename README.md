@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Benluv
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on things?
-- 📫 How to reach me THINGS! I mean... LinkedIn probably
+- 👀 I’m interested in **things**
+- 🌱 I’m currently learning **things**
+- 💞️ I’m looking to collaborate on _things?_
+- 📫 How to reach me **THINGS!** I mean... LinkedIn probably
 
 This will be updated in the coming days, now that I'm job hunting ;P
 <!---
