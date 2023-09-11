@@ -20,7 +20,7 @@
 
 <h2>My Favorite tools and technologies ʕ•́ᴥ•̀ʔっ♡</h2>
 <blockquote>Tools and technologies that I have worked with and that I am interested in:</blockquote>
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 47px;" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 47px;" /> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 47px;" /> </a>
@@ -31,7 +31,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="68" style="width: 68px; height: 68px; margin-right: 0px; margin-bottom: 0px;" /> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
 </div>
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" />
@@ -42,7 +42,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
 </div>
 <div>
-  <div style="display: flex; justify-content: center;">
+  <div align="center" style="display: flex;">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
     <!--<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 47px;" />-->
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
