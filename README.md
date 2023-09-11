@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact **Love to run, draw, and read**
 
-<h3>👀 Profile views </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benluv&label=Profile%20views&color=6a17cf&style=flat" alt="benluv" /> </p>
-
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/benito-luongo-vegas-68530293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benito-luongo-vegas-68530293/" height="30" width="40" /></a>
