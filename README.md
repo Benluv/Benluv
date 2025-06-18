@@ -53,9 +53,3 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 47px;" /> </a>
     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 0px; margin-bottom: 47px;" />
 </div>
-<br>
-<br>
-Don't forget about them jams ≧◠ᴥ◠≦✊
-<blockquote>I'm only held <i>partially</i> responsible for the tunes that pop here</blockquote>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12172885624&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12172885624&redirect=true)
