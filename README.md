@@ -5,8 +5,6 @@
 
 - ♻️ I’m currently refreshing **MERN Stack**
 
-- 📝 I regularly write entries on My diary before bed
-
 - 📫 How to reach me **luongov13@gmail.com**
 
 - ⚡ Fun fact **Love to 🏃run, 🤿dive, and 📕read**
@@ -35,8 +33,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 0px; margin-bottom: 0px;" /> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 47px; margin-bottom: 0px;" /> </a>
