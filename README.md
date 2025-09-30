@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luongov13@gmail.com**
 
-- ⚡ Fun fact **Love to 🏃run, ✏️draw, and 📕read**
+- ⚡ Fun fact **Love to 🏃run, 🤿dive, and 📕read**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benluv&label=Profile%20views&color=6a17cf&style=flat" alt="benluv" /> 👀</p>
 
